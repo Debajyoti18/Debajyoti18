@@ -13,7 +13,7 @@
 ### 💫 About Me
 
 - 👨‍💻 Software Developer passionate about Java, Spring Boot, C++, and solving complex problems with DSA.
-- 🔭 Currently working on: Claims Processing System, scalable microservices, and full-stack applications.
+- 🔭 Currently working on: Data Structures and Algorithms , Design Principles , System Designs.
 - 🌱 Focused on learning AWS Cloud (VPC, EC2, S3, IAM), DevOps, Docker, Kubernetes, Jenkins, Ansible, Terraform, and advanced System Design.
 - 👯 Looking to collaborate on open source, backend engineering, and cloud projects.
 - 🥅 2025 Goals: Master DevOps, AWS, strengthen DSA, and system design.
@@ -56,15 +56,6 @@
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/debajyoti18" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
 
 ---
 
