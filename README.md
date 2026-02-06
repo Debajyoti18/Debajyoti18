@@ -14,9 +14,9 @@
 
 - 👨‍💻 Software Developer passionate about Java, Spring Boot, C++, and solving complex problems with DSA.
 - 🔭 Currently working on: Data Structures and Algorithms , Design Principles , System Designs.
-- 🌱 Focused on learning AWS Cloud (VPC, EC2, S3, IAM), DevOps, Docker, Kubernetes, Jenkins, Ansible, Terraform, and advanced System Design.
+- 🌱 Focused on learning AWS Cloud , DevOps, Docker, Ansible, Terraform.
 - 👯 Looking to collaborate on open source, backend engineering, and cloud projects.
-- 🥅 2025 Goals: Master DevOps, AWS, strengthen DSA, and system design.
+- 🥅 2026 Goals: Master DevOps, strengthen DSA, and system design.
 
 <br>
 
