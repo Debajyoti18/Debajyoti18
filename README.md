@@ -1,23 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header&text=Debajyoti&fontSize=50&fontColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header&fontSize=50&fontColor=FFFFFF"/>
 
 <div id="header" align="center">
   <h1>Welcome! I'm Debajyoti 👨‍💻</h1>
   <p>
-    <strong>Backend Engineer | Cloud Enthusiast | DSA Problem Solver</strong><br>
+    <strong> DSA Problem Solver | Java Developer | Spring Boot & Cloud Enthusiast </strong><br>
     Building scalable systems with Java, Spring Boot & Cloud Technologies
   </p>
 </div>
 
 <br>
 
+---
+
 <div align="center">
-  <a href="mailto:bdebajyoti22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dbhatta22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bdebajyoti22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dbhatta22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Debajyoti18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/b_debajyoti_5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
+
 
 ## 💡 Professional Summary
 
@@ -29,6 +31,7 @@
 - 🚀 **Currently Mastering**: Advanced System Design, DevOps practices, AWS Architecture
 - 📚 **Problem Solver**: Active in DSA with focus on optimization & scalability
 - 🤝 **Open to**: Collaborations on backend engineering, cloud projects & open source
+
 
 ---
 
