@@ -1,38 +1,38 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header&text=Debajyoti&fontSize=50&fontColor=FFFFFF"/>
 
 <div id="header" align="center">
-  <h1>Hey there, Debajyoti this side! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35px" alt="GIF"></h1>
+  <h1>Welcome! I'm Debajyoti 👨‍💻</h1>
+  <p>
+    <strong>Backend Engineer | Cloud Enthusiast | DSA Problem Solver</strong><br>
+    Building scalable systems with Java, Spring Boot & Cloud Technologies
+  </p>
 </div>
 
 <br>
-
-<div>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
-
-### 💫 About Me
-
-- 👨‍💻 Software Developer passionate about Java, Spring Boot, C++, and solving complex problems with DSA.
-- 🔭 Currently working on: Data Structures and Algorithms , Design Principles , System Designs.
-- 🌱 Focused on learning AWS Cloud , DevOps, Docker, Ansible, Terraform.
-- 👯 Looking to collaborate on open source, backend engineering, and cloud projects.
-- 🥅 2026 Goals: Master DevOps, strengthen DSA, and system design.
-
-<br>
-
-## 🌐 Socials
 
 <div align="center">
-  <a href="mailto:bdebajyoti22@mail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dbhatta22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Debajyoti18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/b_debajyoti_5/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:bdebajyoti22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dbhatta22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Debajyoti18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/b_debajyoti_5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<br>
+---
 
-## 💻 Tech Stack
+## 💡 Professional Summary
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="340" />
+
+- 🎯 **Specialization**: Backend Development, Microservices Architecture, Cloud Infrastructure
+- 💻 **Core Skills**: Java, Spring Boot, Data Structures & Algorithms, System Design
+- ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins
+- 🚀 **Currently Mastering**: Advanced System Design, DevOps practices, AWS Architecture
+- 📚 **Problem Solver**: Active in DSA with focus on optimization & scalability
+- 🤝 **Open to**: Collaborations on backend engineering, cloud projects & open source
+
+---
+
+## 🛠️ Technical Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,terraform,html,css,javascript,postman,docker,kubernetes,jenkins,ansible,aws,mysql,git,linux&perline=10" />
 </div>
@@ -48,21 +48,32 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debajyoti18&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debajyoti18&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debajyoti18&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Debajyoti18&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Debajyoti18&theme=radical">
+
 
 </div>
+
 <br>
 
 ---
 
 
+
+
+
+## 🌟 Highlights
+
+- 💪 **Strong DSA Foundation**: Proficient in algorithms, data structures & optimization
+- 🏗️ **System Design**: Experience with scalable architecture patterns & microservices
+- 🔄 **CI/CD Pipeline**: Expertise in automation, deployment & infrastructure as code
+- 📚 **Continuous Learner**: Actively staying updated with industry trends
+- 🤖 **Problem Solver**: Focus on efficient solutions and clean code practices
+
 ---
 
-### 🎎 Visitors count:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Debajyoti18&label=Profile%20views&color=0e75b6&style=flat" alt="Debajyoti18" />
-</p>
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Debajyoti18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <i>"Code is poetry written in logic"</i>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
